@@ -1,0 +1,17 @@
+.card__actions {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.button {
+    background-color: #087033;
+    width: 60px;
+    height: 30px;
+    color: white;
+    font-size: large;
+    border-radius: 15px;
+    border: none;
+}
