@@ -1,0 +1,58 @@
+
+
+.button__set {
+    margin: 20px 0px;
+}
+
+.button {
+    padding: 10px 50px;
+    border-radius: 25px;
+    border: none;
+    font-size: 1.2rem;
+}
+
+.button__time--start {
+    transition: 1s;
+    background: #1d7834;
+    border: #3A4550 2px solid;
+    color: white;
+}
+
+.button__time--start:hover {
+    transition: 1s;
+    background: #3A4550;
+    border: #3A4550 2px solid;
+    color: white;
+}
+
+.button__time--stop {
+    transition: 1s;
+    border: #3A4550 2px solid;
+    background: #581c29;
+    color: white;
+}
+
+.button__time--stop:hover {
+    transition: 1s;
+    border: #3A4550 2px solid;
+    background: #3A4550;
+    color: white;
+}
+
+.button__secundary {
+    height: 30px;
+    width: 100px;
+    border-radius: 15px;
+    background-color: transparent;
+    border: solid 2px #2E3844;
+    color: #2E3844;
+    font-weight: 700;
+    font-size: 0.8rem;
+    margin: 0px 10px;
+}
+
+.button__secundary:hover {
+    color: white;
+    transition: 1s;
+    background-color: #2E3844;
+}
