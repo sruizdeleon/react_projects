@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1707335275227" clover="3.2.0">
+  <project timestamp="1707335275227" name="All files">
+    <metrics statements="33" coveredstatements="23" conditionals="4" coveredconditionals="3" methods="4" coveredmethods="3" elements="41" coveredelements="29" complexity="0" loc="33" ncloc="33" packages="1" files="2" classes="2"/>
+    <file name="App.jsx" path="D:\Archivos\Documentos\Estudios\Bootcamp UpgradeHub\07. React\02. Ejercicios y proyectos\react_projects_sin subir\project6_tdd\src\App.jsx">
+      <metrics statements="23" coveredstatements="23" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="17" type="cond" truecount="1" falsecount="0"/>
+      <line num="5" count="17" type="stmt"/>
+      <line num="6" count="17" type="stmt"/>
+      <line num="7" count="17" type="stmt"/>
+      <line num="8" count="17" type="stmt"/>
+      <line num="9" count="17" type="stmt"/>
+      <line num="10" count="17" type="stmt"/>
+      <line num="11" count="17" type="stmt"/>
+      <line num="12" count="17" type="cond" truecount="1" falsecount="0"/>
+      <line num="13" count="17" type="stmt"/>
+      <line num="14" count="17" type="stmt"/>
+      <line num="15" count="17" type="cond" truecount="1" falsecount="0"/>
+      <line num="16" count="17" type="stmt"/>
+      <line num="17" count="17" type="stmt"/>
+      <line num="18" count="17" type="stmt"/>
+      <line num="19" count="17" type="stmt"/>
+      <line num="20" count="17" type="stmt"/>
+      <line num="21" count="17" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+    </file>
+    <file name="main.jsx" path="D:\Archivos\Documentos\Estudios\Bootcamp UpgradeHub\07. React\02. Ejercicios y proyectos\react_projects_sin subir\project6_tdd\src\main.jsx">
+      <metrics statements="10" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
